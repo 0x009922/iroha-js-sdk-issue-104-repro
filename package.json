@@ -1,0 +1,21 @@
+{
+  "name": "iroha-js-sdk-issue-104-repro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3",
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "@iroha2/crypto-core": "^0.1.1",
+    "@iroha2/crypto-target-web": "^0.4.0",
+    "@iroha2/crypto-util": "^0.1.0",
+    "@iroha2/data-model": "^4.0.0"
+  }
+}
