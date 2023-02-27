@@ -9,12 +9,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "^4.9.3",
-    "vite": "^4.0.0"
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
   },
   "dependencies": {
-    "@iroha2/crypto-core": "^0.1.1",
-    "@iroha2/crypto-target-web": "^0.4.0",
+    "@iroha2/crypto-core": "^1.0.0",
+    "@iroha2/crypto-target-web": "^1.0.0",
     "@iroha2/crypto-util": "^0.1.0",
     "@iroha2/data-model": "^4.0.0"
   }
